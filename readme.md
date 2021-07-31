@@ -1,6 +1,6 @@
 ## Vou explicar
 
-*Do que se trata?!*
+*Do que se trata?!* :)
 
 _1°_
 
