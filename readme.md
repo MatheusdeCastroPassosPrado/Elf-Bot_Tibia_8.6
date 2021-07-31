@@ -8,7 +8,7 @@ basicamente é um compilado de codigos que eu fiz ou achei pela net e eu uso no 
 
 _2°_
 
-Se divide em hotkeys, incones para melhorar a esperiencia e actions para os cavebot
+Se divide em hotkeys comandos por prog, icones para melhorar a experiência e actions para os cavebot
 
 _3°_
 
