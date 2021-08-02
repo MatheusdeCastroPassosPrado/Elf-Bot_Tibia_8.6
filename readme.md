@@ -1,6 +1,6 @@
 ##                      Tibia 8.6 -Para jogar no Baiakão do Mauricio :eyes:
 
-![1shsgxX](C:\Users\Matheus Prado\Pictures\Saved Pictures\1shsgxX.jpg)
+![Tibia aonde a CIP não tinha ficado doida(zuera:)](https://i.imgur.com/1shsgxX.jpg)
 
 *Olá, bem vindos ao meu tutorial de Elf-bot Para TIBIA 8.6* .
 *Neste tutorial você aprenderá do básico ao intermediário sobre ELF BOT Para deixar uma interface agradável e fácil de usar. Versão usada disponível* [aqui](https://www.ciroscript.com/forum/tutoriais/download-do-elfbot-crack-tibia-ip-change).
