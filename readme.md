@@ -7,9 +7,9 @@
 
 
 
-<img src="C:\Users\Matheus Prado\AppData\Roaming\Typora\typora-user-images\image-20210802180855191.png" alt="image-20210802180855191" style="zoom:100%;" />
+![Antes da aplicação do bot]()
 
-
+![]()
 
 Sumário
 
