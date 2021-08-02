@@ -7,9 +7,9 @@
 
 
 
-![Antes da aplicação do bot](D:\Downloads\fotos\desativado.png)
+![Antes da aplicação do bot](https://drive.google.com/file/d/1wAU5i9rJLKWFWdKoGNSgEsRMA4jRkPq_/view?usp=sharing)
 
-![quando o bot é ativado](D:\Downloads\fotos\ativado.png)
+![quando o bot é ativado](D:\Downloads\fotos\ativado.png) 	x'
 
 Sumário
 
