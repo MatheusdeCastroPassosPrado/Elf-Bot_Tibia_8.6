@@ -13,13 +13,13 @@
 
 Sumário
 
-1. [O que é Elfbot?](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#whatismarkdown)
-2. [Porque usar Elf-Bot?](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#whatismarkdown)
-3. [Resumo das Ferramentas](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#tools)
-4. [Hotkeys o que são onde moram e o que fazem?](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#why)
-5. [Ícones como configurar e como deixar bonito]()
-6. [Cavebot o Milagre da Preguiça]()
-7. [Sintaxe de Elf-bot](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#syntax)
+1. [O que é Elfbot?](https://github.com/MatheusdeCastroPassosPrado/configs_elf#o-que-é-elf-bot-)
+2. [Porque usar Elf-Bot?](https://github.com/MatheusdeCastroPassosPrado/configs_elf#porque-usar-elf-bot)
+3. [Resumo das Ferramentas](https://github.com/MatheusdeCastroPassosPrado/configs_elf#resumo-das-ferramentas)
+4. [Hotkeys o que são onde moram e o que fazem?](https://github.com/MatheusdeCastroPassosPrado/configs_elf#hotkeys-o-que-são-onde-moram-e-o-que-fazem)
+5. [Ícones como configurar e como deixar bonito](https://github.com/MatheusdeCastroPassosPrado/configs_elf#ícones-como-configurar-e-como-deixar-bonito)
+6. [Cavebot o Milagre da Preguiça .... da otimização](https://github.com/MatheusdeCastroPassosPrado/configs_elf#cavebot-o-milagre-da-preguiça)
+7. [Sintaxe de Elf-bot](https://github.com/MatheusdeCastroPassosPrado/configs_elf#sintaxe-de-elf-bot)
 
 
 
