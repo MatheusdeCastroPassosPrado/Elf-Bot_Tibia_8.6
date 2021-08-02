@@ -7,9 +7,9 @@
 
 
 
-![Antes da aplicação do bot]()
+![Antes da aplicação do bot](D:\Downloads\fotos\desativado.png)
 
-![]()
+![quando o bot é ativado](D:\Downloads\fotos\ativado.png)
 
 Sumário
 
