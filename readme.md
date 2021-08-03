@@ -7,9 +7,9 @@
 
 
 
-![Antes da aplicação do bot](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/desativado.png)
+[Antes da aplicação do bot](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/desativado.png)
 
-![quando o bot é ativado](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/ativado.png) 	
+[quando o bot é ativado](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/ativado.png) 	
 
 Sumário
 
@@ -26,6 +26,8 @@ Sumário
 
 
 ## O que é Elf-Bot ? 
+
+![O verdadeiro elf bot](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/Elf_bottrue.png)
 
 
 
