@@ -31,7 +31,7 @@ Sumário
 
 
 
-​     	Antes de pensar no Elfo que só queria passar um tempo curtindo o seu joguinho dentro do bot é preciso entender aonde ele vai ser aplicado, que no caso é no jogo de RPG "*clássico*" TIBIA :game_die: mas é clássico mesmo(jogo lançado em 1997 um dos primeiros do gênero MMORPG :green_heart: ) >Tibia é um jogo eletrônico multijogador gratuito, desenvolvido pela CipSoft. Criado em 1997, é um dos jogos mais antigos do gênero. [Wikipédia](https://pt.wikipedia.org/wiki/Tibia).
+​     	Antes de pensar no Elfo que só queria passar um tempo curtindo o seu joguinho dentro do bot é preciso entender aonde ele vai ser aplicado, que no caso é no jogo de RPG "*clássico*" TIBIA :game_die: mas é clássico mesmo(jogo lançado em 1997 um dos primeiros do gênero MMORPG :green_heart: ) ***Tibia é um jogo eletrônico multijogador gratuito, desenvolvido pela CipSoft. Criado em 1997, é um dos jogos mais antigos do gênero. [Wikipédia](https://pt.wikipedia.org/wiki/Tibia).***
 
 ​        Mas o que é o Elf_Bot mesmo?  É um sistema de automatização de varias funções  programáveis para facilitar a jogatina ou até mesmo poder deixar o jogo rodando totalmente afk! Enquanto você faz uma postagem no seu GitHub
 
