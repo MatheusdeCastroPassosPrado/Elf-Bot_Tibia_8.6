@@ -9,7 +9,7 @@
 
 [Antes da aplicação do bot](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/desativado.png)
 
-[quando o bot é ativado](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/ativado.png) 	
+[Depois que o bot é ativado](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/ativado.png) 	
 
 Sumário
 
