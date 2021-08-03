@@ -7,9 +7,9 @@
 
 
 
-![Antes da aplicação do bot](https://drive.google.com/file/d/1wAU5i9rJLKWFWdKoGNSgEsRMA4jRkPq_/view?usp=sharing)
+![Antes da aplicação do bot](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/desativado.png)
 
-![quando o bot é ativado](D:\Downloads\fotos\ativado.png) 	x'
+![quando o bot é ativado](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/ativado.png) 	
 
 Sumário
 
