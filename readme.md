@@ -57,6 +57,14 @@ Outro ponto que me encantou no elfbot, é sua customização, podendo assim deix
 
 ## Resumo das Ferramentas
 
+Nesse tópico pensando um pouco na otimização do post e melhor absorção do conhecimento irá ser postado um vídeo  dando uma explicação sobre as principais funções que podem ser implementadas no elf bot!
+
+```
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Texto ALT da imagem aqui" width="240" height="180" border="10" /></a>
+```
+
 ## Hotkeys o que são onde moram e o que fazem?
 
 ## Ícones como configurar e como deixar bonito
