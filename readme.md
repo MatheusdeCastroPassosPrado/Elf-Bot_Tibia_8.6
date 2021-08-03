@@ -27,6 +27,8 @@ Sumário
 
 ## O que é Elf-Bot ? 
 
+
+
 ## Porque usar Elf-Bot?
 
 ## Resumo das Ferramentas
