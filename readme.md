@@ -47,9 +47,13 @@ Sumário
 
 ## Porque usar Elf-Bot?
 
-O ELF  é um bot de implementação injetável, isso implica que ele insere um código que roda paralelo ao jogo lendo tudo que passa no client, tornando-o um bot com varias funções possíveis, que seriam impossíveis para um jogador normal mesmo que esse fosse um ótimo jogador como por exemplo: saber que há um player perto mesmo que ele não apareça na sua tela, espiar andares superiores ou inferiores sem precisar acessar eles jogar horas a fio sem precisar parar.... entre outras funções que serão ensinadas aqui mesmo depois dos reclames do plim-plim!
+O ELF  é um bot de implementação injetável :syringe: , isso implica que ele insere um código que roda paralelo ao jogo lendo tudo que passa no client, tornando-o um bot com varias funções possíveis que seriam impossíveis para um jogador normal mesmo que esse fosse um ótimo jogador:speak_no_evil: como por exemplo: saber que há um player perto mesmo que ele não apareça na sua tela :eye: ,:eye: ​ espiar andares superiores ou inferiores sem precisar acessar eles(sharigan é você??) jogar horas a fio sem precisar parar.... entre outras funções que serão ensinadas aqui mesmo depois dos reclames do plim-plim!
+
+ -------------:star2: ------------- :star2: ------------- :star2: -------------  :star2: ------------- :star2: ------------- :star2: ------------- :star2: ------------- 
 
 Outro ponto que me encantou no elfbot, é sua customização, podendo assim deixar ele com sua cara organizar os poderes, skills, combos(sim da para fazer uns combos no tibia kkkkk, bem legais no PVP ou PVE) automatização de serviços e tudo isso através de uma programação até bem simples como usar uma SD  no target quando ele atender uma certa condição `auto 100 | dontlist | if [$target.hppc < 25] {sd target | wait 300}`  Para isso é preciso saber o básico de programação para poder interpretar os códigos mas nada que meia hora de pesquisa na net não clareei algumas coisas!
+
+![Skill pala]()
 
 ## Resumo das Ferramentas
 
