@@ -53,7 +53,7 @@ O ELF  é um bot de implementação injetável :syringe: , isso implica que ele 
 
 Outro ponto que me encantou no elfbot, é sua customização, podendo assim deixar ele com sua cara organizar os poderes, skills, combos(sim da para fazer uns combos no tibia kkkkk, bem legais no PVP ou PVE) automatização de serviços e tudo isso através de uma programação até bem simples como usar uma SD  no target quando ele atender uma certa condição `auto 100 | dontlist | if [$target.hppc < 25] {sd target | wait 300}`  Para isso é preciso saber o básico de programação para poder interpretar os códigos mas nada que meia hora de pesquisa na net não clareei algumas coisas!
 
- ---------------------------------![Skill pala](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/insta.gif)-------------------------------------
+ ------------------------------------------------![Skill pala](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/insta.gif)------------------------------------------------------
 
 ## Resumo das Ferramentas
 
