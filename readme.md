@@ -31,7 +31,9 @@ Sumário
 
 
 
-​	Antes de pensar no Elfo que só queria passar um tempo curtindo o seu joguinho dentro do bot é preciso entender aonde ele vai ser aplicado, que no caso é o jogo de RPG "*clássico*" TIBIA :game_die: mas é clássico mesmo(jogo lançado em 1997 um dos primeiros do gênero MMORPG), O Elf_Bot é um sistema de automatização de varias funções para facilitar a jogatina ou até mesmo poder deixar o jogo rodando totalmente afk! Enquanto você faz uma postagem no seu GitHub
+​     	Antes de pensar no Elfo que só queria passar um tempo curtindo o seu joguinho dentro do bot é preciso entender aonde ele vai ser aplicado, que no caso é no jogo de RPG "*clássico*" TIBIA :game_die: mas é clássico mesmo(jogo lançado em 1997 um dos primeiros do gênero MMORPG).
+
+​        Mas o que é o Elf_Bot mesmo?  É um sistema de automatização de varias funções  programáveis para facilitar a jogatina ou até mesmo poder deixar o jogo rodando totalmente afk! Enquanto você faz uma postagem no seu GitHub
 
 ![Aparência do bot quando injetado no Tibia](https://github.com/MatheusdeCastroPassosPrado/Elf-Bot_Tibia_8.6/blob/master/assets/Elf_bot.png)
 
